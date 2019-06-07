@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# This is a simple python3 MAC address changer for Linux.
+
 import subprocess
 
 interface = input("interface > ")
